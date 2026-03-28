@@ -25,8 +25,6 @@ GET /personagens/favoritos/{id}
 
 ### Exemplo de requisição
 
-![Resposta da API](./imagens/resposta.png)
-
 ```
 http://localhost:8080/personagens/favoritos/1
 ```
